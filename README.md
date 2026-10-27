@@ -12,6 +12,7 @@ Experiments
 1.Basic program using printf(),scanf()-sum of two numbers 
 
 #week 2
+
 1.sum and average of three numbers 
 
 2.Temperature conversion - fahrenheit to celsius 
@@ -19,6 +20,7 @@ Experiments
 3.simple interest - using principal amount,rate time
 
 #week 3
+
 1.square root
 
 2.Compound Interest 
@@ -28,6 +30,7 @@ Experiments
 4.distance travelled by object 
 
 #week 4
+
 1.expression evaluation 
 
 2.maximum of three numbers 
@@ -35,6 +38,7 @@ Experiments
 3.total , average of subject marks
 
 #week 5
+
 1.maximum and minimum of four numbers
 
 2.Electricity total bill
